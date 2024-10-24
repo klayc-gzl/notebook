@@ -1,1 +1,1 @@
-书生大模型实战营：https://github.com/InternLM/Tutorial/tree/camp4
+书生大模型实战营：https://github.com/InternLM/Tutorial
